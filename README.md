@@ -65,7 +65,7 @@ julio@bcit:~$ ls ./in-progress
 
 - 🎓 Completing the Computer Information Technology program at BCIT
 - 🔎 Building hands-on cybersecurity projects, coming soon to this profile
-- 🤝 Open to co-op, internship, and entry-level IT and security roles
+- 🤝 Open to co-op, internship, and entry-level IT Jobs
 
 ---
 
