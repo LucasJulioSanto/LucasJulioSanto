@@ -56,24 +56,16 @@ julio@bcit:~$ echo $GOAL
 
 ---
 
-### 📂 Coursework & Projects
+### 🚀 Currently
 
-| Project | Description | Stack |
-|---|---|---|
-| [2520 Term Project](https://github.com/LucasJulioSanto/2520-term-project) | BCIT term project web application | JavaScript |
-| [Passport TypeScript Lab](https://github.com/LucasJulioSanto/passport-typescript-lab) | User authentication with Passport.js | TypeScript |
-| [ACIT-1620](https://github.com/LucasJulioSanto/ACIT-1620) | Web development coursework | HTML · CSS |
+```bash
+julio@bcit:~$ ls ./in-progress
+> security-projects/   linux-labs/   networking/   ctf-writeups/
+```
 
-> 🚧 More security-focused projects coming soon.
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=LucasJulioSanto&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasJulioSanto&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
-</p>
+- 🎓 Completing the Computer Information Technology program at BCIT
+- 🔎 Building hands-on cybersecurity projects, coming soon to this profile
+- 🤝 Open to co-op, internship, and entry-level IT and security roles
 
 ---
 
