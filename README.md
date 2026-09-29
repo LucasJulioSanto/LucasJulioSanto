@@ -1,25 +1,38 @@
 <h1 align="center">Hi, I'm Julio 👋</h1>
-<h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Cybersecurity Analyst</h3>
+<h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Business Systems Analyst & QA</h3>
 
 <p align="center">
   <a href="mailto:santosrosajulio@gmail.com"><img src="https://img.shields.io/badge/Email-santosrosajulio%40gmail.com-0d1117?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Richmond%2C%20BC-0d1117?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Co--op%20%26%20Internships-2ea44f?style=flat-square" alt="Open to opportunities">
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Entry--Level%20IT%20Roles-2ea44f?style=flat-square" alt="Open to opportunities">
 </p>
 
 ---
 
 ```bash
 julio@bcit:~$ whoami
-> CIT student at BCIT with hands-on experience across the IT stack:
-> programming, databases, networking, systems, and the command line.
+> CIT student at BCIT who connects business needs with technology:
+> turning requirements into clear user stories, and making sure
+> the systems built from them work the way people need them to.
 
 julio@bcit:~$ cat focus.txt
-> Cybersecurity: network defense, secure systems, and threat analysis.
+> Business systems analysis · Quality assurance & testing · Secure systems
 
 julio@bcit:~$ echo $GOAL
-> Build secure, reliable systems and help organizations stay ahead of threats.
+> Help teams deliver reliable, secure systems that make a real
+> difference for the people who use them.
 ```
+
+---
+
+### 🧩 What I Bring
+
+- **Requirements & user stories:** gathering what stakeholders need and writing it up clearly for the team
+- **Process analysis:** mapping workflows and spotting bottlenecks, delays, and sources of error
+- **Testing & QA:** writing test cases, checking edge cases, and reporting defects clearly
+- **Data & reporting:** querying databases with SQL and analyzing results in Excel
+- **Security awareness:** thinking about who should see which screens and data
+- **Teamwork:** Agile/Scrum collaboration and clear communication with technical and non-technical people
 
 ---
 
@@ -37,6 +50,11 @@ julio@bcit:~$ echo $GOAL
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 
+**Business & Productivity**
+
+![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=googlesheets&logoColor=217346)
+![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-0d1117?style=flat-square&logo=microsoftoffice&logoColor=D83B01)
+
 **Tools & Platforms**
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
@@ -47,12 +65,12 @@ julio@bcit:~$ echo $GOAL
 
 ---
 
-### 🔐 Cybersecurity Interests
+### 🎯 Interests
 
-- Network security and traffic analysis
-- Linux hardening and system administration
-- Secure authentication and web application security
-- Incident response and threat detection
+- Business systems analysis and process improvement
+- Software testing and quality assurance
+- Data analysis and reporting
+- Access control and secure system design
 
 ---
 
@@ -60,12 +78,12 @@ julio@bcit:~$ echo $GOAL
 
 ```bash
 julio@bcit:~$ ls ./in-progress
-> security-projects/   linux-labs/   networking/   ctf-writeups/
+> business-analysis/   qa-testing/   sql-reporting/   security/
 ```
 
 - 🎓 Completing the Computer Information Technology program at BCIT
-- 🔎 Building hands-on cybersecurity projects, coming soon to this profile
-- 🤝 Open to co-op, internship, and entry-level IT Jobs
+- 🔎 Building business analysis and QA projects, coming soon to this profile
+- 🤝 Open to co-op, internship, and entry-level IT jobs
 
 ---
 
