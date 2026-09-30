@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Julio 👋</h1>
-<h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Cybersecurity Engineer</h3>
+<h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Cybersecurity Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Engineer;Network+Defense+%26+Secure+Systems;Linux+%C2%B7+Cloud+%C2%B7+Docker;Always+learning+something+new" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;Network+Defense+%26+Secure+Systems;Linux+%C2%B7+Cloud+%C2%B7+Docker;Always+learning+something+new" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -84,6 +84,34 @@ A cybersecurity-themed personal website deployed on **AWS EC2** and served by **
 
 ---
 
+### 🚧 Currently Building: Mini SOC Lab on AWS
+
+A small security operations center (SOC) in AWS, where one Linux server is monitored by another running **Wazuh**, so I can detect and investigate suspicious activity.
+
+```text
+AWS VPC
+│
+├── Web Server (Ubuntu EC2)
+│   ├── Nginx
+│   ├── Wazuh Agent
+│   └── Fail2Ban
+│
+└── Security Server (Ubuntu EC2)
+    ├── Wazuh Manager
+    ├── Wazuh Indexer
+    └── Wazuh Dashboard
+```
+
+- 🖥️ **Web server** acts like a normal company server, generating logs from SSH logins, file changes, and web traffic
+- 🛡️ **Security server** collects those logs with Wazuh and turns suspicious activity into alerts
+- 🧪 **Testing:** safely generating events like failed SSH logins and changes to monitored files, then confirming Wazuh detects them
+
+**What I'm learning:** AWS networking · Linux administration · Security monitoring · Log analysis · Intrusion detection · Basic incident response
+
+`AWS EC2` · `VPC` · `Ubuntu` · `Wazuh` · `Fail2Ban` · `Nginx`
+
+---
+
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -110,21 +138,16 @@ A cybersecurity-themed personal website deployed on **AWS EC2** and served by **
 
 ### 🚀 Currently
 
-```bash
-julio@bcit:~$ ls ./in-progress
-> aws-docker-nginx-website/ ✓   security-projects/   linux-labs/   ctf-writeups/
-```
-
 - 🎓 Completing the Computer Information Technology program at BCIT
-- 🔎 Building more hands-on cybersecurity projects
+- 🔎 Building the mini SOC lab above, with more cybersecurity projects to follow
 - 🤝 Open to co-op, internship, and entry-level IT jobs
 
 <details>
 <summary><b>⚡ More about me</b></summary>
 
-- 🌱 Currently learning: network security and Linux hardening
+- 🌱 Currently learning: security monitoring and intrusion detection with Wazuh
 - 💬 Ask me about: AWS, Docker, Linux, and the command line
-- 🎮 Fun fact: (add something about you here!)
+- 🎮 Fun fact: I like hiking!!
 
 </details>
 
