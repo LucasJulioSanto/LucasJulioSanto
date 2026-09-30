@@ -2,7 +2,7 @@
 <h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Cybersecurity Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;Network+Defense+%26+Secure+Systems;Linux+%C2%B7+Cloud+%C2%B7+Docker;Always+learning+something+new" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Engineer;Network+Defense+%26+Secure+Systems;Linux+%C2%B7+Cloud+%C2%B7+Docker;Always+learning+something+new" alt="Typing SVG">
 </p>
 
 <p align="center">
