@@ -2,7 +2,7 @@
 <h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Business Systems Analyst & QA</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Business+Systems+Analyst;QA+%26+Testing+Enthusiast;Cloud+%2B+Security+Curious;Always+learning+something+new" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Business+Systems+Analyst;QA+%26+Testing+Enthusiast;Turning+Requirements+into+Results;Always+learning+something+new" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -20,10 +20,10 @@ julio@bcit:~$ whoami
 > the systems built from them work the way people need them to.
 
 julio@bcit:~$ cat focus.txt
-> Business systems analysis · Quality assurance & testing · Secure systems
+> Business systems analysis · Quality assurance & testing · Data & reporting
 
 julio@bcit:~$ echo $GOAL
-> Help teams deliver reliable, secure systems that make a real
+> Help teams deliver reliable systems that make a real
 > difference for the people who use them.
 ```
 
@@ -35,7 +35,6 @@ julio@bcit:~$ echo $GOAL
 - **Process analysis:** mapping workflows and spotting bottlenecks, delays, and sources of error
 - **Testing & QA:** writing test cases, checking edge cases, and reporting defects clearly
 - **Data & reporting:** querying databases with SQL and analyzing results in Excel
-- **Security awareness:** thinking about who should see which screens and data
 - **Teamwork:** Agile/Scrum collaboration and clear communication with technical and non-technical people
 
 ---
@@ -76,7 +75,7 @@ julio@bcit:~$ echo $GOAL
 
 #### ☁️ [AWS Docker Nginx Website](https://github.com/LucasJulioSanto/aws-docker-nginx-website)
 
-A cybersecurity-themed personal website deployed on **AWS EC2** and served by **Nginx** running in a **Docker** container.
+A personal website deployed on **AWS EC2** and served by **Nginx** running in a **Docker** container.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LucasJulioSanto/aws-docker-nginx-website/main/screenshot.png" alt="Screenshot of the AWS Docker Nginx website" width="85%">
@@ -111,7 +110,7 @@ A cybersecurity-themed personal website deployed on **AWS EC2** and served by **
 - Business systems analysis and process improvement
 - Software testing and quality assurance
 - Data analysis and reporting
-- Access control and secure system design
+- Cloud deployment and Linux systems
 
 ---
 
@@ -131,7 +130,7 @@ julio@bcit:~$ ls ./in-progress
 
 - 🌱 Currently learning: business analysis, software testing, and SQL reporting
 - 💬 Ask me about: cloud deployment, Docker, Linux, and SQL
-- 🎮 Fun fact: I like to go hiking!
+- 🎮 Fun fact: I love hiking!!
 
 </details>
 
