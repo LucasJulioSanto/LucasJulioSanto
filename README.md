@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Julio 👋</h1>
-<h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Business Systems Analyst & QA</h3>
+<h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Cybersecurity Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Business+Systems+Analyst;QA+%26+Testing+Enthusiast;Turning+Requirements+into+Results;Always+learning+something+new" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;Network+Defense+%26+Secure+Systems;Linux+%C2%B7+Cloud+%C2%B7+Docker;Always+learning+something+new" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -15,27 +15,26 @@
 
 ```bash
 julio@bcit:~$ whoami
-> CIT student at BCIT who connects business needs with technology:
-> turning requirements into clear user stories, and making sure
-> the systems built from them work the way people need them to.
+> CIT student at BCIT with hands-on experience across the IT stack:
+> programming, databases, networking, systems, and the command line.
 
 julio@bcit:~$ cat focus.txt
-> Business systems analysis · Quality assurance & testing · Data & reporting
+> Cybersecurity: network defense, secure systems, and threat analysis.
 
 julio@bcit:~$ echo $GOAL
-> Help teams deliver reliable systems that make a real
-> difference for the people who use them.
+> Build secure, reliable systems and help organizations stay ahead of threats.
 ```
 
 ---
 
 ### 🧩 What I Bring
 
-- **Requirements & user stories:** gathering what stakeholders need and writing it up clearly for the team
-- **Process analysis:** mapping workflows and spotting bottlenecks, delays, and sources of error
-- **Testing & QA:** writing test cases, checking edge cases, and reporting defects clearly
-- **Data & reporting:** querying databases with SQL and analyzing results in Excel
-- **Teamwork:** Agile/Scrum collaboration and clear communication with technical and non-technical people
+- **Linux & the command line:** comfortable working in the terminal and administering Linux servers
+- **Cloud & containers:** deploying and configuring services on AWS EC2 with Docker and Nginx
+- **Secure configuration:** SSH key-only access, AWS Security Group rules, and keeping secrets out of code
+- **Scripting & automation:** Python and Bash for automating tasks
+- **Databases:** writing SQL queries and working with MySQL
+- **Problem solving:** troubleshooting issues methodically until they're fixed
 
 ---
 
@@ -52,11 +51,6 @@ julio@bcit:~$ echo $GOAL
 **Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
-
-**Business & Productivity**
-
-![Excel](https://img.shields.io/badge/Excel-0d1117?style=flat-square&logo=googlesheets&logoColor=217346)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-0d1117?style=flat-square&logo=microsoftoffice&logoColor=D83B01)
 
 **Tools & Platforms**
 
@@ -75,7 +69,7 @@ julio@bcit:~$ echo $GOAL
 
 #### ☁️ [AWS Docker Nginx Website](https://github.com/LucasJulioSanto/aws-docker-nginx-website)
 
-A personal website deployed on **AWS EC2** and served by **Nginx** running in a **Docker** container.
+A cybersecurity-themed personal website deployed on **AWS EC2** and served by **Nginx** running in a **Docker** container, built with security in mind from the start.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/LucasJulioSanto/aws-docker-nginx-website/main/screenshot.png" alt="Screenshot of the AWS Docker Nginx website" width="85%">
@@ -105,12 +99,12 @@ A personal website deployed on **AWS EC2** and served by **Nginx** running in a 
 
 ---
 
-### 🎯 Interests
+### 🔐 Cybersecurity Interests
 
-- Business systems analysis and process improvement
-- Software testing and quality assurance
-- Data analysis and reporting
-- Cloud deployment and Linux systems
+- Network security and traffic analysis
+- Linux hardening and system administration
+- Cloud security and secure deployment
+- Incident response and threat detection
 
 ---
 
@@ -118,19 +112,19 @@ A personal website deployed on **AWS EC2** and served by **Nginx** running in a 
 
 ```bash
 julio@bcit:~$ ls ./in-progress
-> aws-docker-nginx-website/ ✓   business-analysis/   qa-testing/   sql-reporting/
+> aws-docker-nginx-website/ ✓   security-projects/   linux-labs/   ctf-writeups/
 ```
 
 - 🎓 Completing the Computer Information Technology program at BCIT
-- 🔎 Building business analysis, QA, and SQL reporting projects next
+- 🔎 Building more hands-on cybersecurity projects
 - 🤝 Open to co-op, internship, and entry-level IT jobs
 
 <details>
 <summary><b>⚡ More about me</b></summary>
 
-- 🌱 Currently learning: business analysis, software testing, and SQL reporting
-- 💬 Ask me about: cloud deployment, Docker, Linux, and SQL
-- 🎮 Fun fact: I love hiking!!
+- 🌱 Currently learning: network security and Linux hardening
+- 💬 Ask me about: AWS, Docker, Linux, and the command line
+- 🎮 Fun fact: (add something about you here!)
 
 </details>
 
