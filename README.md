@@ -2,7 +2,7 @@
 <h3 align="center">Computer Information Technology Student @ BCIT · Aspiring Cybersecurity Analyst</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;Network+Defense+%26+Secure+Systems;Linux+%C2%B7+Cloud+%C2%B7+Docker;Always+learning+something+new" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA44F&center=true&vCenter=true&width=600&lines=Aspiring+Cybersecurity+Analyst;Network+Defense+%26+Secure+Systems;Wazuh+%C2%B7+Linux+%C2%B7+AWS;Always+learning+something+new" alt="Typing SVG">
 </p>
 
 <p align="center">
@@ -29,6 +29,7 @@ julio@bcit:~$ echo $GOAL
 
 ### 🧩 What I Bring
 
+- **Security monitoring:** deploying the Wazuh SIEM, investigating alerts, and mapping them to MITRE ATT&CK
 - **Linux & the command line:** comfortable working in the terminal and administering Linux servers
 - **Cloud & containers:** deploying and configuring services on AWS EC2 with Docker and Nginx
 - **Secure configuration:** SSH key-only access, AWS Security Group rules, and keeping secrets out of code
@@ -56,6 +57,7 @@ julio@bcit:~$ echo $GOAL
 
 ![AWS](https://img.shields.io/badge/AWS%20EC2-0d1117?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
 ![Docker](https://img.shields.io/badge/Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED)
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=flat-square&logo=wazuh&logoColor=3D8FF7)
 ![Nginx](https://img.shields.io/badge/Nginx-0d1117?style=flat-square&logo=nginx&logoColor=009639)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=FCC624)
 ![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
@@ -66,6 +68,22 @@ julio@bcit:~$ echo $GOAL
 ---
 
 ### 📂 Projects
+
+#### 🛡️ [AWS Mini SOC](https://github.com/LucasJulioSanto/aws-mini-soc)
+
+A small **Security Operations Center** lab in AWS: a public Ubuntu web server monitored by a separate **Wazuh** security server inside a custom VPC. It detected both simulated attacks and **real internet scanners** probing the server.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasJulioSanto/aws-mini-soc/main/aws-soc-picture.png" alt="Wazuh dashboard monitoring the soc-web-server agent" width="85%">
+</p>
+
+- Built a custom **VPC** with public subnets, an Internet Gateway, route tables, and Security Groups (SSH limited to my IP)
+- Deployed **Wazuh Manager, Indexer, and Dashboard** and connected a Wazuh agent over **private VPC networking**
+- Detected failed SSH logins, mapped by Wazuh to **MITRE ATT&CK** (Credential Access, Lateral Movement)
+- Caught **real reconnaissance** from automated internet scanners, classified as **T1595.002 Vulnerability Scanning**
+- Troubleshot an unsupported OS, a full disk (resized EBS from 8 GB to 40 GB), and a broken `dpkg` package state
+
+`AWS EC2` · `VPC` · `Ubuntu` · `Wazuh` · `Nginx` · `MITRE ATT&CK`
 
 #### ☁️ [AWS Docker Nginx Website](https://github.com/LucasJulioSanto/aws-docker-nginx-website)
 
@@ -81,34 +99,6 @@ A cybersecurity-themed personal website deployed on **AWS EC2** and served by **
 - Troubleshot and resolved Docker port conflicts during deployment
 
 `AWS EC2` · `Docker` · `Nginx` · `Linux` · `HTML/CSS/JavaScript` · `Git`
-
----
-
-### 🚧 Currently Building: Mini SOC Lab on AWS
-
-A small security operations center (SOC) in AWS, where one Linux server is monitored by another running **Wazuh**, so I can detect and investigate suspicious activity.
-
-```text
-AWS VPC
-│
-├── Web Server (Ubuntu EC2)
-│   ├── Nginx
-│   ├── Wazuh Agent
-│   └── Fail2Ban
-│
-└── Security Server (Ubuntu EC2)
-    ├── Wazuh Manager
-    ├── Wazuh Indexer
-    └── Wazuh Dashboard
-```
-
-- 🖥️ **Web server** acts like a normal company server, generating logs from SSH logins, file changes, and web traffic
-- 🛡️ **Security server** collects those logs with Wazuh and turns suspicious activity into alerts
-- 🧪 **Testing:** safely generating events like failed SSH logins and changes to monitored files, then confirming Wazuh detects them
-
-**What I'm learning:** AWS networking · Linux administration · Security monitoring · Log analysis · Intrusion detection · Basic incident response
-
-`AWS EC2` · `VPC` · `Ubuntu` · `Wazuh` · `Fail2Ban` · `Nginx`
 
 ---
 
@@ -139,15 +129,15 @@ AWS VPC
 ### 🚀 Currently
 
 - 🎓 Completing the Computer Information Technology program at BCIT
-- 🔎 Building the mini SOC lab above, with more cybersecurity projects to follow
+- 🔎 Building more hands-on cybersecurity projects
 - 🤝 Open to co-op, internship, and entry-level IT jobs
 
 <details>
 <summary><b>⚡ More about me</b></summary>
 
-- 🌱 Currently learning: security monitoring and intrusion detection with Wazuh
-- 💬 Ask me about: AWS, Docker, Linux, and the command line
-- 🎮 Fun fact: I like hiking!!
+- 🌱 Currently learning: Wazuh rules, log analysis, and Linux hardening
+- 💬 Ask me about: AWS, Wazuh, Docker, and Linux
+- 🥾 Fun fact: I love hiking with my girlfriend and trying out new coffee shops ☕
 
 </details>
 
